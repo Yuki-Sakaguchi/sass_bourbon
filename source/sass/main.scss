@@ -3,4 +3,5 @@
 
 .test {
   @include transition(0.3s);
+  background: red;
 }
