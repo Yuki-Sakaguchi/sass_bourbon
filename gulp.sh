@@ -1,6 +1,6 @@
 #!/bin/bash
 # gulpのタスクを開始するスクリプト
-cd ~/work/github/sass_bourbon/dist
+cd ~/work/github/sass_bourbon/
 gulp watch
 
 # How to use.
