@@ -1,5 +1,5 @@
 #!/bin/bash
-# sassディレクトリまで移動し、sassのウォッチを開始するスクリプト
+# gulpのタスクを開始するスクリプト
 cd ~/work/github/sass_bourbon/dist
 gulp watch
 
