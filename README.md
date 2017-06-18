@@ -2,4 +2,5 @@
 ====
 
 html5のテンプレート
-sass + bourbon
+sass + bourbon(neat + bitters)
+glup

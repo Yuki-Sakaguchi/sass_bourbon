@@ -1,0 +1,25 @@
+{
+  "name": "sass_bourbon",
+  "version": "1.0.0",
+  "description": "俺的html5のテンプレート ====",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yuki-Sakaguchi/sass_bourbon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yuki-Sakaguchi/sass_bourbon/issues"
+  },
+  "homepage": "https://github.com/Yuki-Sakaguchi/sass_bourbon#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^3.1.0",
+    "node-bourbon": "^4.2.8"
+  }
+}

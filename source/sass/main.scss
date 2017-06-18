@@ -1,7 +1,22 @@
 @charset "UTF-8";
-@import "./bourbon/bourbon";
 
+// =================
+//  bourbon
+// =================
+@import "bourbon/bourbon";
+@import "neat/neat";
+@import "base/base";
+
+
+// =================
+//  common
+// =================
 .test {
-  @include transition(0.3s);
+  background: yellow;
+}
+.test2 {
   background: red;
+}
+.test3 {
+  background: white;
 }
